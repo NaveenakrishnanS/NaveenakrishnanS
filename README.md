@@ -55,7 +55,7 @@ Here’s a list of the frameworks and tools I use to build powerful and scalable
   <div style="display: flex; flex-direction: column; align-items: center; gap: 40px;">
     <img src="https://github-readme-stats.vercel.app/api?username=NaveenakrishnanS&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 400px; height: auto; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenakrishnanS&layout=compact&theme=radical" alt="Top Languages" style="width: 400px; height: auto; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);" />
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NaveenakrishnanS&theme=radical" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=NaveenakrishnanS&theme=radical&hide_total_contributions=true" alt="GitHub Streak" /></a>
   </div>
 </div>
 
